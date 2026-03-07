@@ -7,16 +7,16 @@
 
 ## 🔥 Features
 * ✅ **IP Tracker:** Get real-time geographical location, ISP, and organization data from any IP address.
-* ✅ **Username Stalker:** Scan over 50+ social media platforms to find digital footprints of any username.
+* ✅ **Username Stalker:** Scan over 50+ social media platforms to find digital footprints.
 * ✅ **Matrix UI:** High-quality neon-styled banner and animated terminal interface.
 * ✅ **Fast & Lightweight:** Optimized for mobile terminal environments like Termux.
 
 ## 🚀 Installation
 ```bash
-pkg update && pkg upgrade
-pkg install python git
-git clone https://github.com/Nawab6751/Qahar-Force-Official
-cd Qahar-Force-Official
+pkg update && pkg upgrade -y
+pkg install python git -y
+git clone https://github.com/Nawab6751/Nawab-Zada-Hacker
+cd Nawab-Zada-Hacker
 pip install requests
 python hacker.py
 ```
